@@ -1,4 +1,4 @@
-# Advanced-Decision-Making-Predictive-Analytics-Machine-Learning-Project
+# Case syudy - Data Analysis in Sports Bet
 This GitHub repository contains a project on advanced decision making using predictive analytics and machine learning algorithms. The project is divided into two parts.
 
 In the first part, the project compares tree-based algorithms with conditional probability algorithms to understand the decision-making process using different methodologies.
